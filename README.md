@@ -29,6 +29,16 @@ Se diseñan visualizaciones que muestran el comportamiento de los clientes, las 
 
 <img width="1674" alt="Captura de Pantalla 2024-11-14 a las 12 58 01" src="https://github.com/user-attachments/assets/7052b6f6-8fd4-4d85-8870-54fe0c189fa7">
 
+<img width="1671" alt="Captura de Pantalla 2024-11-14 a las 12 58 17" src="https://github.com/user-attachments/assets/8fb46e60-2a88-462a-adc0-41e6f251bb5c">
+
+<img width="1660" alt="Captura de Pantalla 2024-11-14 a las 12 58 34" src="https://github.com/user-attachments/assets/7cee0c1b-5da8-4532-969c-7420a36e202b">
+
+<img width="17" alt="Captura de Pantalla 2024-11-14 a las 12 58 59" src="https://github.com/user-attachments/assets/00c072e3-cba1-4717-8d05-3e95554f074a">
+
+<img width="1664" alt="Captura de Pantalla 2024-11-14 a las 12 59 11" src="https://github.com/user-attachments/assets/f5daea29-ee25-4840-98f8-1ee487d5fbc6">
+
+<img width="1655" alt="Captura de Pantalla 2024-11-14 a las 12 59 33" src="https://github.com/user-attachments/assets/0e8c2e07-b4d5-456c-9753-96648bdc0222">
+
 
 ## 📚 Tecnologías utilizadas
 
