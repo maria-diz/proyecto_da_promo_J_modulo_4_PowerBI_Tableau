@@ -34,11 +34,6 @@ Se diseñan visualizaciones que muestran el comportamiento de los clientes, las 
 Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
 - Power BI Desktop
 
-## 📦 Instalación
-
-1. Clona el repositorio:
-   git clone https://github.com/maria-diz/proyecto_da_promo_j_modulo_2_team_1.git](https://github.com/elenacrami/team2-proyecto4.git
-
 ## 👥 Equipo
 
    - Elena Craven: Scrum Master
