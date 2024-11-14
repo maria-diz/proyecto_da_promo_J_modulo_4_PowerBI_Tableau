@@ -25,6 +25,11 @@ Se aplican reglas de negocio específicas para asegurar la calidad de los datos 
 Se utilizan herramientas de visualización como Tableau o Power BI para crear dashboards interactivos que respondan a las preguntas planteadas por el cliente. 
 Se diseñan visualizaciones que muestran el comportamiento de los clientes, las tendencias de compra a lo largo del tiempo y las categorías de productos más populares, entre otros insights
 
+<img width="1674" alt="Captura de Pantalla 2024-11-14 a las 12 57 47" src="https://github.com/user-attachments/assets/7672423a-89a1-4c81-b2d4-0d2cd9841ee0">
+
+<img width="1674" alt="Captura de Pantalla 2024-11-14 a las 12 58 01" src="https://github.com/user-attachments/assets/7052b6f6-8fd4-4d85-8870-54fe0c189fa7">
+
+
 ## 📚 Tecnologías utilizadas
 
 - **Python**: Para la extracción y manipulación de datos.
